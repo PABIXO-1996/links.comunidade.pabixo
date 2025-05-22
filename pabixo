@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Entre no Nevoeiro</title>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Creepster&display=swap');
+    body {
+      font-family: 'Creepster', cursive, Arial, sans-serif;
+      background: linear-gradient(135deg, #0b0c10, #1f2833);
+      color: #c5c6c7;
+      text-align: center;
+      padding: 50px 20px;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+    }
+    h1 {
+      font-size: 3rem;
+      margin-bottom: 40px;
+      color: #66fcf1;
+      text-shadow: 0 0 10px #45a29e;
+    }
+    .btn {
+      display: block;
+      background: #45a29e;
+      color: #0b0c10;
+      font-weight: bold;
+      font-size: 1.3rem;
+      text-decoration: none;
+      padding: 18px 0;
+      margin: 15px auto;
+      border-radius: 12px;
+      width: 85%;
+      max-width: 320px;
+      box-shadow: 0 0 15px #45a29e;
+      transition: background 0.3s, color 0.3s;
+    }
+    .btn:hover {
+      background: #66fcf1;
+      color: #1f2833;
+      box-shadow: 0 0 25px #66fcf1;
+    }
+    .footer {
+      margin-top: 60px;
+      font-size: 0.9rem;
+      color: #45a29e;
+      text-shadow: 0 0 5px #45a29e;
+    }
+  </style>
+</head>
+<body>
+  <h1>🌫️ Entre no Nevoeiro</h1>
+
+  <a
+    href="https://linkpix.pro/Fabricio_Augusto_Araujo_M/Ressaquinha/32999620598/_/_/7f09"
+    target="_blank"
+    rel="noopener noreferrer"
+    class="btn"
+    >💸 Apoie via PIX</a
+  >
+  <a
+    href="https://discord.gg/ysUnF9bA"
+    target="_blank"
+    rel="noopener noreferrer"
+    class="btn"
+    >🎮 Entrar no Discord</a
+  >
+  <a
+    href="https://chat.whatsapp.com/L0i8EQqBngiB316OCrMUhv"
+    target="_blank"
+    rel="noopener noreferrer"
+    class="btn"
+    >💬 Grupo no WhatsApp</a
+  >
+
+  <div class="footer">© 2025 - Sua Página do Nevoeiro</div>
+</body>
+</html>
